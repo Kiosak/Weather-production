@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Kiosak/Weather-production/static/css/main.a35427d7.chunk.css",
+    "main.js": "/Kiosak/Weather-production/static/js/main.165130a4.chunk.js",
+    "main.js.map": "/Kiosak/Weather-production/static/js/main.165130a4.chunk.js.map",
+    "runtime~main.js": "/Kiosak/Weather-production/static/js/runtime~main.2a621e43.js",
+    "runtime~main.js.map": "/Kiosak/Weather-production/static/js/runtime~main.2a621e43.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Kiosak/Weather-production/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1d2967ae.chunk.js": "/Kiosak/Weather-production/static/js/2.1d2967ae.chunk.js",
+    "static/js/2.1d2967ae.chunk.js.map": "/Kiosak/Weather-production/static/js/2.1d2967ae.chunk.js.map",
+    "index.html": "/Kiosak/Weather-production/index.html",
+    "precache-manifest.f70063b753d5809c133457b57a524490.js": "/Kiosak/Weather-production/precache-manifest.f70063b753d5809c133457b57a524490.js",
+    "service-worker.js": "/Kiosak/Weather-production/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Kiosak/Weather-production/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.a35427d7.chunk.css.map": "/Kiosak/Weather-production/static/css/main.a35427d7.chunk.css.map",
+    "static/media/App.css": "/Kiosak/Weather-production/static/media/FOREST.facc40a8.svg"
+  }
+}
