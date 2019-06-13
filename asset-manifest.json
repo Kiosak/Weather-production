@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4ab171d.chunk.css",
-    "main.js": "/static/js/main.192b4612.chunk.js",
-    "main.js.map": "/static/js/main.192b4612.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
-    "static/js/2.1d2967ae.chunk.js": "/static/js/2.1d2967ae.chunk.js",
-    "static/js/2.1d2967ae.chunk.js.map": "/static/js/2.1d2967ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3f8d29227fc49c6d4c394d96881c5bed.js": "/precache-manifest.3f8d29227fc49c6d4c394d96881c5bed.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.b4ab171d.chunk.css.map": "/static/css/main.b4ab171d.chunk.css.map",
-    "static/media/App.css": "/static/media/FOREST.facc40a8.svg"
+    "main.css": "/Kiosak/Weather/static/css/main.f0cdc272.chunk.css",
+    "main.js": "/Kiosak/Weather/static/js/main.cff6a528.chunk.js",
+    "main.js.map": "/Kiosak/Weather/static/js/main.cff6a528.chunk.js.map",
+    "runtime~main.js": "/Kiosak/Weather/static/js/runtime~main.830e2d93.js",
+    "runtime~main.js.map": "/Kiosak/Weather/static/js/runtime~main.830e2d93.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Kiosak/Weather/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1d2967ae.chunk.js": "/Kiosak/Weather/static/js/2.1d2967ae.chunk.js",
+    "static/js/2.1d2967ae.chunk.js.map": "/Kiosak/Weather/static/js/2.1d2967ae.chunk.js.map",
+    "index.html": "/Kiosak/Weather/index.html",
+    "precache-manifest.ec43a61a0f118bd943126bd90938230a.js": "/Kiosak/Weather/precache-manifest.ec43a61a0f118bd943126bd90938230a.js",
+    "service-worker.js": "/Kiosak/Weather/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Kiosak/Weather/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.f0cdc272.chunk.css.map": "/Kiosak/Weather/static/css/main.f0cdc272.chunk.css.map",
+    "static/media/App.css": "/Kiosak/Weather/static/media/FOREST.facc40a8.svg"
   }
 }
